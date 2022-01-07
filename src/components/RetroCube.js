@@ -106,7 +106,7 @@ class RetroCube extends HTMLElement {
       <div class="face bottom"></div>
       <div class="face top"></div>
       <div class="face left"></div>
-      <img class="content" src="/bunny-face.png" alt="bunny" />
+      <img class="content" src="bunny-face.png" alt="bunny" />
     </div>`;
   }
 }
