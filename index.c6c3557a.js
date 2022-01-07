@@ -91,7 +91,7 @@ const l=function(){const r=document.createElement("link").relList;if(r&&r.suppor
       <div class="face bottom"></div>
       <div class="face top"></div>
       <div class="face left"></div>
-      <img class="content" src="/bunny-face.png" alt="bunny" />
+      <img class="content" src="bunny-face.png" alt="bunny" />
     </div>`}}customElements.define("retro-cube",a);const c=`
   <div class="group">
     <h1>HTML</h1>
